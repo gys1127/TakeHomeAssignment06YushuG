@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TakeHomeAssignment06-YushuG</string>
+    <string name="tip_calculator_title">Tip Calculator</string>
+    <string name="your_receipt_title">Your Receipt</string>
+    <string name="amount_hint">Amount</string>
+    <string name="tax_percentage_hint">Tax Percentage</string>
+    <string name="submit">SUBMIT</string>
+    <string name="tip_percentage_hint">Tip Percentage</string>
+    <string name="amount_extra">Amount</string>
+    <string name="tax_percentage_extra">TaxPercentage</string>
+    <string name="tip_percentage_extra">TipPercentage</string>
+
+</resources>
